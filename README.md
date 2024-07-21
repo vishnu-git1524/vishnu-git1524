@@ -15,6 +15,7 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 
 ### Find me on
 [![Instagram](https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-48.png)](https://www.instagram.com/vishnu_pvt.1524)
+
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/vishnu-venkat-g/)
 <!---
 vishnu-git1524/vishnu-git1524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
