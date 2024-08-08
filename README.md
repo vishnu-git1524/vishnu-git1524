@@ -2,7 +2,7 @@
 
 - 👀 I have a keen interest in application development and web development.
 - 🌱 I’m currently delving into the realms of Dart and Flutter.
-- 💞️ I’m eager to collaborate on innovative and impactful projects in the application and web development space.
+- 💻 I’m eager to collaborate on innovative and impactful projects in the application and web development space.
 - 📫 Feel free to reach out to me at: vishnuvenkat1524@gmail.com
 
 ### Skills & Technologies
