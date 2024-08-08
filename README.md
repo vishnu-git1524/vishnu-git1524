@@ -36,6 +36,10 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
 
 ### 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu-git1524&show_icons=true&locale=en&layout=compact" alt="vishnu-git1524" /></p>
+
+<img src="https://raw.githubusercontent.com/vishnu-git1524/vishnu-git1524/output/snake.svg" alt="Snake animation" />
+
+###
 <!---
 vishnu-git1524/vishnu-git1524 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
