@@ -34,7 +34,7 @@ I’m always open to discussing new projects, creative ideas, or opportunities t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-### 
+<!---### 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu-git1524&show_icons=true&locale=en&layout=compact" alt="vishnu-git1524" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu-git1524&show_icons=true&locale=en" alt="vishnu-git1524" /></p>
